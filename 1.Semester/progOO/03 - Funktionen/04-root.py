@@ -1,7 +1,7 @@
 DELTA = 0.000_000_0001
 
 iterations = 0
-x = float(input("Geben sie bitte eine Zahl ein: "))
+x = float(input("Gebe eine Zahl ein: "))
 counter = 0
 z = x
 
